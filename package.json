@@ -1,0 +1,13 @@
+{
+  "name": "validators",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dastansam/polkadot-data-analysis.git",
+  "author": "Dastan <dastanbeksamatov@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "pg": "^8.7.1",
+    "sequelize": "^6.6.5"
+  }
+}
